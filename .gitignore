@@ -1,0 +1,10 @@
+*.pth
+*.rar
+*.bin
+*.zip
+*.pt
+*.xlsx
+*.xls
+*.h5
+*.DS_Store
+*.gz
